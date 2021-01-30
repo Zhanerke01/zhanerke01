@@ -1,0 +1,104 @@
+body
+{
+  background-color: #c7cfb7
+}
+.contact{
+  background-image: url(../images/dark2.jpg);
+  font-family: cursive;
+  font-size: 20px;
+  color;:blue;
+}
+table{
+  width: 400px;
+}
+th {
+  text-align: left;
+}
+table, th, td {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.top-container{
+  margin-top: 0;
+  position: relative;
+  padding-top: 5px;
+  background-image: url(../images/dark2.jpg);
+  background-color: #c7cfb7;
+}
+
+.bottom-aitu {
+position: absolute;
+right: 340px;
+bottom:100px;
+width: 150px;
+}
+.bottom-nis {
+position: absolute;
+left: 350px;
+bottom:100px;
+width: 150px;
+}
+.education{
+  background-image: url(../images/dark2.jpg);
+  background-color: red;
+}
+.app-text {
+  width: 100%;
+  float: left;
+}
+.app-text h1 {
+  background-color:white;
+  padding-top:100px;
+  font-size: 43px;
+  width: 640px;
+  top: 0;
+  position: relative;
+  margin-left: 40px;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: white;
+}
+p{
+  font-weight: normal;
+  line-height: 2;
+  color: white;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 2.5rem;
+  padding-bottom: 10px;}
+
+  h3{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+h4{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+}
+
+.hobby-grid{
+  padding:3% 8%
+}
+.title-h1{
+  margin-top: 50px;
+}
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+.container.slider{
+  height: 300px;
+  width: 300px;
+}
